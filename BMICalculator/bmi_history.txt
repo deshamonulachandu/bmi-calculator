@@ -1,0 +1,5 @@
+john - BMI: 22.04 - Normal
+john - BMI: 22.04 - Normal
+alex - BMI: 13.85 - Underweight
+kan - BMI: 35.56 - Obese
+kan - BMI: 20.0 - Normal
